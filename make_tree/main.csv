@@ -1,0 +1,65 @@
+ORIGINAL LABEL,OTT TAXON NAME,OTT TAXON ID,TAXONOMIC SOURCES
+Pogona barbata,Pogona barbata,58621,ncbi:52202;gbif:2465633;irmng:11356617
+Uromastyx aegyptius,Uromastyx aegyptia,913390,ncbi:103697;gbif:9013567;irmng:10868174
+Saara hardwicki,Saara hardwickii,887472,ncbi:40250;gbif:7374453;irmng:10897854
+Phrynocephalus scutellatus,Phrynocephalus scutellatus,356454,ncbi:1001345;gbif:9555651;irmng:10779827
+Laudakia stellio,Stellagama stellio,913396,ncbi:103696;gbif:7504253;irmng:10641550
+Tropicagama temporalis,Gowidon temporalis,208241,ncbi:103705;gbif:9427895;irmng:10360740
+Psammophilus dorsalis,Psammophilus dorsalis,4125042,ncbi:2307236;gbif:5226018;irmng:10919553
+Agama agama,Agama agama,144931,ncbi:103336;gbif:5226308;irmng:10426031
+Trapelus agilis,Trapelus agilis,631612,ncbi:52210;gbif:9204508;irmng:11286568;irmng:10373209
+Bufoniceps,Bufoniceps,858091,ncbi:330739;gbif:2466424;irmng:1103706
+Ctenophorus nuchalis,Ctenophorus nuchalis,1090806,ncbi:116115;irmng:11064466
+Trioceros jacksonii,Trioceros jacksonii,1090802,ncbi:116114;gbif:8371864;irmng:10639841
+Chamaeleo gracilis,Chamaeleo gracilis,824513,ncbi:91909;gbif:2448992;irmng:11231787
+Leiocephalus carinatus,Leiocephalus carinatus,696197,ncbi:81825;gbif:5224691;irmng:10644108
+Leiocephalus inaguae,Leiocephalus inaguae,4125668,ncbi:1874833;gbif:5224765;irmng:10639752
+Leiocephalus raviceps,Leiocephalus raviceps,367191,ncbi:587886;gbif:5224783;irmng:11248579
+Leiocephalus schreibersii,Leiocephalus schreibersii,970141,ncbi:38932;gbif:5224791;irmng:11046790
+Corytophanes cristatus,Corytophanes cristatus,3089,ncbi:144206;gbif:2448667;irmng:11351380
+Basiliscus vittatus,Basiliscus vittatus,384634,ncbi:211979;gbif:5221821;irmng:10367211
+Laemanctus serratus,Laemanctus serratus,4125716,ncbi:1476580;gbif:2448652;irmng:11045008
+Crotaphytus collaris,Crotaphytus collaris,244476,ncbi:43591;gbif:2470616;irmng:10366225
+Crotaphytus vestigium,Crotaphytus vestigium,53412,ncbi:475060;gbif:2470621;irmng:10361277
+Gambelia wislizenii,Gambelia wislizenii,244470,ncbi:43593;gbif:8613410;irmng:10362924
+Gambelia copeii,Gambelia copeii,618225,ncbi:475045;gbif:5227130;irmng:11251313
+Crotaphytus bicinctores,Crotaphytus bicinctores,725859,ncbi:86305;gbif:2470618
+Crotaphytus dickersonae,Crotaphytus dickersonae,53414,ncbi:475062;gbif:7570211
+Enyaliodes heterolepis,Enyalioides heterolepis,867625,ncbi:542821;gbif:2471903;irmng:10874140
+Hoplocercus spinosus,Hoplocercus spinosus,116302,ncbi:52193;gbif:2471891;irmng:11106117
+Amblyrhynchus cristatus,Amblyrhynchus cristatus,240153,ncbi:51208;worms:344019;gbif:5224602;irmng:10791987
+Iguana iguana,Iguana iguana,608972,ncbi:8517;gbif:2459658;irmng:10365046
+Dipsosaurus dorsalis,Dipsosaurus dorsalis,763599,ncbi:51217;gbif:2459646;irmng:10474850
+Sauromalus ater,Sauromalus ater,778653,ncbi:65995;gbif:2459705;irmng:10365187;irmng:10365188
+Brachylophus fasciatus,Brachylophus fasciatus,458467,ncbi:46195;gbif:5224625;irmng:10729849
+Cyclura,Cyclura (genus in Deuterostomia),763603,ncbi:51213;irmng:1264897
+Microlophus peruvianus,Microlophus peruvianus,604845,ncbi:290529;gbif:5224936;irmng:10361426
+Microlophus grayii,Microlophus grayii,76239,ncbi:290535;gbif:5224927;irmng:10641780
+Plica plica,Plica plica,761851,ncbi:179265;gbif:8887494;gbif:9462014;irmng:11043405
+Anolis carolinensis,Anolis carolinensis,705356,ncbi:28377;gbif:2466939;irmng:10474606;irmng:11099319
+Anolis sagrei,Anolis sagrei,970153,ncbi:38937;gbif:4287413
+Anolis aquaticus,Anolis aquaticus,1019780,ncbi:323567;gbif:2467563;irmng:10642529
+Polychrus acutirostris,Polychrus acutirostris,1009502,ncbi:161137;gbif:2468059;irmng:10646301
+Callisaurus draconoides,Callisaurus draconoides,819154,ncbi:43586;gbif:2451459;irmng:10643036
+Uma inornata,Uma inornata,297697,ncbi:107384;gbif:2451133;irmng:10365632
+Holbrookia maculata,Holbrookia maculata,244460,ncbi:43597;gbif:2451433;irmng:10354150
+Cophosaurus,Cophosaurus,507056,ncbi:43587;gbif:2451471;irmng:1324940
+Petrosaurus,Petrosaurus,391943,ncbi:43605;gbif:2451120;irmng:1346213
+Urosaurus ornatus,Urosaurus ornatus,427345,ncbi:43650;gbif:8538855;irmng:10970041
+Phrynosoma hernandesi,Phrynosoma hernandesi,297699,ncbi:107382;gbif:5222456;irmng:11098411
+Sceloporus magister,Sceloporus magister,342583,ncbi:43627;gbif:2451393;irmng:10366344
+Sceloporus arenicolus,Sceloporus arenicolus,265513,ncbi:59693;gbif:2451348;irmng:10360730
+Sceloporus cowlesi,Sceloporus cowlesi,80377,ncbi:190875;gbif:7566793
+Petrosaurus mearnsi,Petrosaurus mearnsi,160827,ncbi:43606;gbif:2451121;irmng:10358710
+Liolaemus melanogaster,Liolaemus melanogaster,4125563,ncbi:1966242;gbif:2460410;irmng:10360520
+Ctenoblepharys adspersa,Ctenoblepharys adspersa,571288,ncbi:167112;gbif:2460641;irmng:10369460
+Liolaemus olongasta,Liolaemus olongasta,827689,ncbi:109429;gbif:2460368;irmng:11002387
+Phymaturus patagonicus,Phymaturus patagonicus,529373,ncbi:299250;gbif:2460235;irmng:10370384
+Chalarodon madagascariensis,Chalarodon madagascariensis,32979,ncbi:44147;gbif:2468499;irmng:10707544
+Oplurus quadrimaculatus,Oplurus quadrimaculatus,606179,ncbi:44150;gbif:5843903;irmng:10360026
+Oplurus cuvieri,Oplurus cuvieri,606176,ncbi:44151;gbif:5843908;irmng:10360024
+Diplolaemus bibronii,Diplolaemus bibronii,4125196,ncbi:1737108;gbif:2466877;irmng:11421241
+Pristidactylus torquatus,Pristidactylus torquatus,968161,ncbi:43615;gbif:2468037;irmng:10364202
+Enyalius,Enyalius,382351,ncbi:161143;gbif:2466881;irmng:1336698
+Leiosaurus catamarcensis,Leiosaurus catamarcensis,382357,ncbi:161146;gbif:2468009;irmng:10728225
+Diplolaemus darwinii,Diplolaemus darwinii,139667,ncbi:75280;gbif:2466876;irmng:10377488
