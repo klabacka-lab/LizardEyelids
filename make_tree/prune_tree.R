@@ -18,7 +18,7 @@ squa
 iguania_species_of_interest<-c("Pogona_barbata", "Phrynocephalus_scutellatus", "Phrynocephalus_ornatus", "Trapelus_agilis", "Bufoniceps_laungwalaensis", "Ctenophorus_nuchalis", "Leiocephalus_schreibersii", "Leiocephalus_barahonensis", "Corytophanes_cristatus", "Crotaphytus_collaris", "Crotaphytus_vestigium", "Gambelia_wislizenii", "Gambelia_copeii", "Crotaphytus_bicinctores", "Crotaphytus_dickersonae", "Enyalioides_heterolepis", "Hoplocercus_spinosus", "Amblyrhynchus_cristatus", "Iguana_iguana", "Dipsosaurus_dorsalis", "Sauromalus_ater", "Microlophus_thoracicus", "Microlophus_grayii", "Tropidurus_spinulosus", "Tropidurus_erythrocephalus", "Callisaurus_draconoides", "Uma_inornata", "Holbrookia_maculata", "Cophosaurus_texanus", "Phrynosoma_hernandesi", "Phrynosoma_coronatum", "Sceloporus_magister", "Sceloporus_arenicolus", "Petrosaurus_mearnsi", "Liolaemus_melanogaster", "Ctenoblepharys_adspersa", "Liolaemus_olongasta", "Phymaturus_patagonicus", "Chalarodon_madagascariensis", "Oplurus_quadrimaculatus", "Diplolaemus_bibronii")
 
 # Prune for iguania
-iguania_pruned <- drop.tip(squa,squa$tip.label[-match(species_of_interest, squa$tip.label)])
+iguania_pruned <- drop.tip(squa,squa$tip.label[-match(iguania_species_of_interest, squa$tip.label)])
 iguania_pruned
 # Set plot size
 par(mar = c(5, 5, 4, 0) + 0.1)  # Adjust the margin values as needed
@@ -30,7 +30,7 @@ plot(ladderize(iguania_pruned, right = TRUE), edge.width = 2)  # ladderize() mak
 #so when I make the plot bigger the problem (the text box covering the species name) gets worse.
 
 
-families_of_interest<-c("Coleonyx_variegatus","Cordylus_cordylus","Egernia_depressa","Scincus_scincus","Lamprolepis_smaragdina","Tracheloptychus_petersi","Gerrhosaurus_skoogi","Acanthodactylus_schmidti","Acanthodactylus_gongrorhynchatus","Alopoglossus_angulatus","Gymnophthalmus_speciosus","Aspidoscelis_tigris","Heloderma_suspectum","Xenosaurus_grandis","Elgaria_multicarinata","Diploglossus_monotropis","Shinisaurus_crocodilurus","Lanthanotus_borneensis","Varanus_acanthurus","Ctenophorus_nuchalis","Trioceros_jacksonii","Leiocephalus_schreibersii","Corytophanes_cristatus","Crotaphytus_collaris","Dipsosaurus_dorsalis","Callisaurus_draconoides","Anolis_ricordi","Polychrus_acutirostris","Ctenoblepharys_adspersa","Chalarodon_madagascariensis","Diplolaemus_bibronii","Microlophus_thoracicus","Enyalioides_heterolepis")
+families_of_interest<-c("Coleonyx_variegatus","Cordylus_cordylus","Egernia_depressa","Scincus_scincus","Lamprolepis_smaragdina","Tracheloptychus_petersi","Gerrhosaurus_skoogi","Acanthodactylus_schmidti","Acanthodactylus_gongrorhynchatus","Alopoglossus_angulatus","Gymnophthalmus_speciosus","Aspidoscelis_tigris","Heloderma_suspectum","Xenosaurus_grandis","Elgaria_multicarinata","Diploglossus_monotropis","Shinisaurus_crocodilurus","Lanthanotus_borneensis","Varanus_acanthurus","Ctenophorus_nuchalis","Trioceros_jacksonii","Leiocephalus_schreibersii","Corytophanes_cristatus","Crotaphytus_collaris","Dipsosaurus_dorsalis","Callisaurus_draconoides","Anolis_sagrei","Polychrus_acutirostris","Ctenoblepharys_adspersa","Chalarodon_madagascariensis","Diplolaemus_bibronii","Microlophus_thoracicus","Enyalioides_heterolepis")
 
 # Prune for iguania
 families_pruned <- drop.tip(squa,squa$tip.label[-match(families_of_interest, squa$tip.label)])
